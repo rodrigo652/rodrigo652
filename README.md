@@ -2,6 +2,7 @@
 
 
 - 💻 Sou formado em Ciência da Computação pela Unesp ...
+- ⌨️ Atualmente desenvolvedor fullstack com Java e Angular
 - 📫 Email: rodrigo.camargo52@outlook.com ...
 <div align="center">
   <a href="https://github.com/rodrigo652">
