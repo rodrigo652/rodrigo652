@@ -1,8 +1,17 @@
 ## Olá! Eu sou o Rodrigo Camargo 👋
 
-💻 Sou formado em **Ciência da Computação pela UNESP**  
-⌨️ Atualmente atuo como **Desenvolvedor Full Stack**, com foco em **Java** e **Angular**  
-📫 Contato: **rodrigo.camargo52@outlook.com**
+💻 Desenvolvedor **Full Stack**  
+🎓 Ciência da Computação — **UNESP**  
+⚙️ Java | Spring Boot | Angular | TypeScript  
+📫 **rodrigo.camargo52@outlook.com**
+
+---
+
+### 🛠️ Stack
+- **Back-end:** Java, Spring Boot, APIs REST, JPA/Hibernate  
+- **Front-end:** Angular, TypeScript, HTML, CSS  
+- **Banco de dados:** PostgreSQL, MySQL  
+- **Outros:** Git, GitHub, Docker (básico), Scrum
 
 ---
 
