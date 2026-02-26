@@ -11,7 +11,7 @@
 - **Back-end:** Java, Spring Boot, APIs REST, JPA/Hibernate  
 - **Front-end:** Angular, TypeScript, HTML, CSS  
 - **Banco de dados:** PostgreSQL, MySQL  
-- **Outros:** Git,, Docker, Aws
+- **Outros:** Git, Jenkins, Docker, Aws
 
 ---
 
